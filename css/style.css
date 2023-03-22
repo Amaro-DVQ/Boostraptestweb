@@ -1,0 +1,15 @@
+.table{
+    border: 1px solid black;
+}
+
+
+.containerCoursel{
+    width: 80%;
+    margin: 0   auto;
+    display:flex;
+    justify-content: center;
+}
+
+.containerCoursel-item img{
+    height: 400px;
+}
